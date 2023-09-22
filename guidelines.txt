@@ -1,0 +1,9 @@
+SHAQADA KOOWAAD
+
+1. Waa maxay HTML Element, tusaale kasoo bixi
+
+2. Waa maxay html Attribute, Tusaalayaalna ka bixi
+
+3. HTML Heading
+4. HTML Paragraph
+5. HTML text format
