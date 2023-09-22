@@ -1,10 +1,29 @@
 SHAQADA KOOWAAD
 
 1. Waa maxay HTML Element, tusaale kasoo bixi
-
+Elements in HTML:
+     element is a every thing has start tag and end tag, also defines the whole HTML ducoment.
+     examples of html elements:
+        <h1>used the heading in html</h1>
+        <body>used the body in html document</body>
+        <p>used paragraph</p>
+        <br> is a one of an empty element.
+    
 
 2. Waa maxay html Attribute, Tusaalayaalna ka bixi
 
-3. HTML Heading
-4. HTML Paragraph
-5. HTML text format
+     Attributes in HTML:
+     Attributes provide aditional information like change the color,size or the other information of HTML document. 
+     examples of html Attributes:
+     <id>identifies html element</id>
+     <styl>Defines the styl of an HTML element</styl>
+
+3. HTML Heading:
+are elements used to display the titles
+
+4. HTML Paragraph:
+<p> is a element defines a paragraph and always start a new line.
+
+5. HTML text format:
+are elements that defines the tex with a special meaning,
+for example:This text is bold & this text is italic.
